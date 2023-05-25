@@ -1,0 +1,24 @@
+{
+  "name": "diploma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.1.4",
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "e": "^0.2.33",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "js-alert": "^2.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.1.1",
+    "popups": "^1.1.3"
+  }
+}
